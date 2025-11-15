@@ -1,0 +1,4 @@
+.miboton {
+    background-color: #8ab1e8 !important;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
