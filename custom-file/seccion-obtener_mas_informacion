@@ -1,0 +1,16 @@
+.head_bg {
+    background: linear-gradient(rgba(46, 58, 89, 0.65), rgba(46, 58, 89, 0.65)),
+        url(./wp-content/uploads/asistencia_con_homologacion_de_estudios_para_esmigrar_y_trabajar_en_alemania-Enfymed_en_Alemania.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+@media (min-width: 1024px) {
+
+    .head_bg {
+        background-attachment: fixed !important;
+    }
+
+}
