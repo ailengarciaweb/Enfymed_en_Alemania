@@ -1,0 +1,12 @@
+#menu ul li a{
+	border-top: 0px !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+	font-weight: medium !important;
+}
+
+@media only screen and (min-width: 1018px) {
+  #menu > ul > li > a,
+  #header .header_cart .icon {
+    line-height: 48px !important;
+  }
